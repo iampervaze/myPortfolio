@@ -22,7 +22,10 @@ import { Component } from '@angular/core';
         <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
       </li>
     </ul>
-    
+    <span>
+      <i class="fa fa-adjust"></i>
+      <label>Hello</label>
+    </span>
   `,
   styles: []
 })
