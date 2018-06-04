@@ -19,3 +19,13 @@
     height: 50px;
     border-radius: 30px;
 }
+
+.white-bg {
+    background-color: #fff;
+}
+
+main {
+&.container {
+    margin-top:75px;
+}
+}
